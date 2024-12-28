@@ -1,5 +1,5 @@
 # clonehero
-Guitar Hero - Project
+Guitar Hero - Project, 
 A custom implementation of Guitar Hero with FPGA and Python integration. 
 
 Features:
